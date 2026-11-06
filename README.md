@@ -16,4 +16,4 @@ making tools i wish existed, learning languages, breaking things and figuring ou
 
 ### current side quest
 
-**MeguLit** · making japanese learning a little less painful
+**MeguLit** · building the japanese learning tool i wish existed
